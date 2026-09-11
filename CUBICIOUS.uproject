@@ -1,0 +1,85 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.8",
+	"Category": "",
+	"Description": "CUBICIOUS - voxel prop hunt.",
+	"Modules": [
+		{
+			"Name": "CubeCubeCube",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "CubeCubeCubeEditor",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "GameplayStateTree",
+			"Enabled": true
+		},
+		{
+			"Name": "VoxelEditor",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/2e14209e-d4ad-4072-a18d-a96b4fcad471"
+		},
+		{
+			"Name": "ModelContextProtocol",
+			"Enabled": true
+		},
+		{
+			"Name": "Terminal",
+			"Enabled": true
+		},
+		{
+			"Name": "EditorToolset",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystem",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystemNull",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystemUtils",
+			"Enabled": true
+		},
+		{
+			"Name": "AudioCapture",
+			"Enabled": true
+		},
+		{
+			"Name": "SteamCorePro",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/459e1c72939b4ead8b5132187808a3e7"
+		},
+		{
+			"Name": "OnlineSubsystemSteam",
+			"Enabled": false
+		},
+		{
+			"Name": "SteamSockets",
+			"Enabled": false
+		},
+		{
+			"Name": "SteamShared",
+			"Enabled": false
+		},
+		{
+			"Name": "SteamAudio",
+			"Enabled": false
+		}
+	]
+}
