@@ -13,7 +13,7 @@
 
 ---
 
-## 🧱 Overview
+## Overview
 
 > *"Disguise. Sculpt. Hunt. Ascend."*
 
@@ -23,14 +23,14 @@ Every object, building, prop, and character in the game is constructed from dest
 
 ---
 
-## 🎮 Game Modes & Systems
+## Game Modes and Systems
 
 <p align="center">
   <img src="Docs/img/31.jpg" width="49%" alt="Lobby Build Your Disguise" />
   <img src="Docs/img/36.jpg" width="49%" alt="Hunter Gunplay and Voxel Destruction" />
 </p>
 
-### 🎭 Multiplayer Voxel Prop Hunt (Hunters vs. Props)
+### Multiplayer Voxel Prop Hunt (Hunters vs. Props)
 * **Dynamic Disguises:** Disguise yourself as any prop in the environment—from mailboxes and vending machines to traffic cones, streetlamps, and custom player-sculpted objects.
 * **Hunter Arsenal:** Hunters track disguised players across lush voxel maps using specialized weaponry:
   * **Assault Rifles:** Fast hitscan weapons that chip away voxels from suspicious geometry.
@@ -45,7 +45,7 @@ Every object, building, prop, and character in the game is constructed from dest
   <img src="Docs/img/28.jpg" width="49%" alt="Cosmetics and Weapon Shop" />
 </p>
 
-### 🎨 In-Game Cube Builder & Character Studio
+### In-Game Cube Builder and Character Studio
 * **Live In-Game Sculpting:** Players can sculpt custom characters (**CubeKin**), weapons, and hiding props block-by-block using the native Slate/UMG Cube Builder panel.
 * **256-Color Oklab Palette:** 24 hue bands with 8 tones and 64 greys calibrated in perceptual Oklab color space for high color fidelity.
 * **Sculpting Tools:** Full toolset featuring Box, Sphere, Cylinder, Shell, Line, Mirror, Erase, Paint, and Eyedropper brushes.
@@ -60,14 +60,14 @@ Every object, building, prop, and character in the game is constructed from dest
   <img src="Docs/img/41.jpg" width="49%" alt="Climp Tower Ascent" />
 </p>
 
-### 🧗 Climp Mode (Vertical Tower Platformer)
+### Climp Mode (Vertical Tower Platformer)
 * **Procedural Vertical Ascent:** Scale an immense voxel tower stretching thousands of meters into the clouds (`VoxelClimpTower`).
 * **Precision Platforming:** Navigate floating islands, ancient shrines, lighthouses, narrow ledges, and jump pads with high-speed parkour mechanics.
 * **Distance Streaming & Level Director:** High-performance procedural chunk streaming ensuring smooth framerates even with massive voxel structures.
 
 ---
 
-## 🏛️ Technical Architecture (C++)
+## Technical Architecture (C++)
 
 Built strictly in modern C++ with zero gameplay Blueprint bloat:
 
@@ -95,7 +95,7 @@ Cubiciousflage/
 
 ---
 
-## 🕹️ Controls Guide
+## Controls Guide
 
 | Key | Action |
 |---|---|
@@ -111,7 +111,7 @@ Cubiciousflage/
 
 ---
 
-## 🛠️ Build & Requirements
+## Build and Requirements
 
 1. **Unreal Engine 5.8+**
 2. **Visual Studio 2022** (MSVC v143 toolchain with Desktop C++ & Game Development workloads)
@@ -119,6 +119,6 @@ Cubiciousflage/
 
 ---
 
-## 📄 License & Credits
+## License and Credits
 
 Developed by [Kubrick](https://github.com/kubrvk). All rights reserved.
