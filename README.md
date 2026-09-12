@@ -1,9 +1,15 @@
 # Cubiciousflage — Multiplayer Voxel Prop Hunt & Tower Platformer
 
-<p align="center">
-  <img src="Docs/img/store_capsule_header.png" alt="Cubiciousflage Banner" width="100%" />
-</p>
+<img align="left" width="30%" src="https://github.com/kubrvk/Cubiciousflage/blob/main/Docs/img/store_capsule_header.png"/>
+<h3><a href="https://github.com/kubrvk/Cubiciousflage">4-) Cubiciousflage</a> <a href="https://store.steampowered.com/app/5041030/Cubiciousflage"><img src="https://img.shields.io/badge/Steam: https://store.steampowered.com/app/5041030/Cubiciousflage-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
 
+![](https://img.shields.io/badge/Voxel-275BF5?style=) ![](https://img.shields.io/badge/Co--op-588580?style=) ![](https://img.shields.io/badge/Hunt-E64C4C?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.8-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
+<br>
+Multiplayer voxel action game. Combining high-stakes Prop Hunt hide-and-seek with an in-game Cube Builder and a procedural vertical parkour mode (Climp Tower), Cubiciousflage lets players sculpt, disguise, shoot, and destroy everything down to the individual voxel.
+<br clear="left"/>
+<p align="center">
+<img src="https://github.com/kubrvk/Cubiciousflage/blob/main/Docs/img/32.jpg" width="25%"/><img src="https://github.com/kubrvk/Cubiciousflage/blob/main/Docs/img/37.jpg" width="25%"/><img src="https://github.com/kubrvk/Cubiciousflage/blob/main/Docs/img/30.jpg" width="25%"/><img src="https://github.com/kubrvk/Cubiciousflage/blob/main/Docs/img/40.jpg" width="25%"/>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Unreal_Engine-5.8-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
   <img src="https://img.shields.io/badge/Language-C++20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
