@@ -1,4 +1,4 @@
-# Cubiciousflage Multiplayer Voxel  Hunt & Tower Platformer
+# Cubiciousflage Multiplayer Voxel  Hunt & Platformer
 
 <img align="left" width="30%" src="https://github.com/kubrvk/Cubiciousflage/blob/main/Docs/img/store_capsule_header.png"/>
 <h3><a href="https://github.com/kubrvk/Cubiciousflage">4-) Cubiciousflage</a> <a href="https://store.steampowered.com/app/5041030/Cubiciousflage"><img src="https://img.shields.io/badge/Steam: https://store.steampowered.com/app/5041030/Cubiciousflage-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
