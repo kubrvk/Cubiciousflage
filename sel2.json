@@ -1,3 +1,0 @@
-event: message
-data: {"jsonrpc":"2.0","id":13,"result":{"content":[{"type":"text","text":"{\"returnValue\":[\"/Game/Cube/VoxelObjects/ConvertedObjects\"]}"}]}}
-
